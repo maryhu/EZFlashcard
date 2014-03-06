@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mary Hu</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="appName">EZFLASHCARD</string>
+    <string name="newProject">New Project</string>
+    <string name="viewProject">View Projects</string>
+    <string name="title_activity_view_project">View Existing Projects</string>
+    <string name="title_activity_new_project">Create New Project</string>
+    <string name="question">Question</string>
+    <string name="answer">Answer</string>
+    <string name="instructions">Please enter the questions for current quiz. Click \"Next\" to input next question, click \"Done\" to create the quiz.</string>
+    <string name="next">Next</string>
+    <string name="done">Done</string>
+    <string name="title_activity_view_button">ViewButton</string>
+    <string name="menu">Menu</string>
+    <string name="title_activity_start_quiz">EZFLASHCARD</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="view_quiz">View Quiz</string>
+    <string name="delete_quiz">Delete Quiz</string>
+    <string name="delete_all">Delete All</string>
+    <string name="title_activity_quiz">EZFLASHCARD</string>
+    <string name="see_answer">See Answer</string>
+    <string name="incorrect">Incorrect</string>
+    <string name="correct">Correct</string>
+    <string name="title_activity_view_quiz_content">EZFLASHCARD</string>
+    <string name="allProjects">All Projects</string>
+    <string name="font_size_menu">Font Size</string>
+    <string name="sound_menu">Sound</string>
+    <string name="background_menu">Background</string>
+    <string-array name="font_array">
+        <item >20</item>
+        <item >30</item>
+        <item >40</item>
+    </string-array>
+    <string-array name="sound_array">
+        <item >On</item>
+        <item >Off</item>
+    </string-array>
+
+</resources>
